@@ -1,0 +1,11 @@
+.main
+{
+    width: 500px;
+    background-color: lightblue;    
+}
+
+button
+{
+	margin: 5px;
+	padding: 5px;
+}
